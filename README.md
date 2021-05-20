@@ -12,3 +12,5 @@ Göz kapağı kontrol bilgisi: Şoförün gözünün kapalı olması durumunda 1
 durumlarda ise 0 sinyali verecektir.
 
 Bu proje kapsamında bu verilerin kullanılmasıyla şoförün uyarılması amaçlanmıştır.
+
+![alt text](https://github.com/alieken/Verilog/blob/main/Tasarim.JPG)
